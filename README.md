@@ -1,4 +1,6 @@
 # drown-in-data
+___
+
 Repository contain Jupyter Notebooks about how to Tell Story from Data:
 
 Materi awal yang akan dibahas berupa:
@@ -8,3 +10,7 @@ Materi awal yang akan dibahas berupa:
 	* kumpulan notebook mengenai bagaimana cara mengolah data Twitter.
 3. web-userprofiling
 	* kumpulan notebook mengenai Profiling web user serta mempelajari Web User behaviour.
+
+- - - -
+	
+Untuk tampilan yang lebih baik, disarankan agar mendownload masing-masing file Notebook.
